@@ -1,0 +1,19 @@
+*{
+    margin: 20px;
+    padding: 50px;
+    
+}
+.padre{
+    background-color: rgb(0, 110, 255)
+}
+
+.hijo{
+    background-color: bisque;
+    border: dashed 2px black;
+}
+
+img{ float: right; 
+    border: solid 2px;
+    padding: 3px;
+    background-color: bisque;
+}

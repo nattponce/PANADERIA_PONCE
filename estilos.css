@@ -1,0 +1,95 @@
+body {background-image: url(fondo.jpg);}
+
+h1{color: rgb(233, 217, 0);}
+h1 {background-color: black;
+text-align: center;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 350%;
+}
+
+
+
+
+ul {color: beige;}
+ul {background-color:rgb(216, 93, 93);
+height: 30px;
+text-align: right;
+
+}
+ul li
+ {float: right;
+    
+;
+line-height: 25px;
+margin: 3px;
+float: right;
+border: 1px dashed brown;
+color: rgb(255, 255, 255);
+background-color: rgb(197, 56, 80);
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+p {
+    
+    
+    color: rgb(24, 34, 23);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(197, 56, 80);
+height: 280px;
+width: 150px;
+border: dashed black 2px;
+padding: 9px;
+
+
+}
+
+    
+img  {float:left;
+
+    
+    line-height: 1px;
+    display:block; margin: auto;
+    border: solid black 5px;
+    
+padding: 3px;
+
+margin: 7px;
+
+}
+
+div ul li {background-color:black;
+height: 20px;
+border: rgb(230, 90, 90) solid;
+padding: 0px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+fieldset {bordeR: dashed rgb(255, 255, 255) 2px;
+    color: white;
+    background-color: black;
+    margin: 10px;
+float:inline-start;}
+
+
+    
+
+    
+div 
+
+li {list-style-type: none;
+
+text-align:center;
+background-color: rgb(197, 56, 80);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+}
+footer {color: rgb(197, 56, 80);
+background-color: black;
+height: 25px;
+}
+
+.clearfix{
+    clear:both
+}
+*/

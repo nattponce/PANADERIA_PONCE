@@ -1,0 +1,53 @@
+
+
+
+.padre{
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 250px;
+ 
+   justify-items: flex-end;
+   
+}   
+
+.padre2{
+    
+    min-width: 300px;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20px;
+    
+}
+
+#grilla{
+    display:grid;
+    grid-template-columns: 13%;
+    grid-template-rows: 260px 550px;
+    grid-template-areas: "nav header"; 
+
+    justify-content:left;
+}
+
+
+
+header {
+    grid-area: header;
+    grid-template-columns: 250px;
+    grid-template-rows: 500px;
+     
+}
+
+footer {
+    grid-area: footer;
+    justify-content: flex-start;
+    grid-template-columns: 31% 25% 25% 25% 31%;
+    grid-template-rows: 20px;
+
+}
+
+fieldset{
+
+grid-area: fieldset;
+grid-template-columns: auto;
+grid-template-rows: auto;
+}
